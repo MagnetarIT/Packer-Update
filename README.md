@@ -1,2 +1,2 @@
 # Packer-Update
-Download and install packer on OSX
+Download and install/update packer on OSX
